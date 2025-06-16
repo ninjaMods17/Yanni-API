@@ -1,0 +1,29 @@
+{
+  "name": "yanni-api",
+  "version": "1.0.0",
+  "description": "Base de api simples, criada por Ninja Shadow",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninjaMods17/yanni-api.git"
+  },
+  "keywords": [
+    "API",
+    "Bots",
+    "Whatsapp"
+  ],
+  "author": "Ninja Shadow (AnonimoMods.js)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ninjaMods17/yanni-api/issues"
+  },
+  "homepage": "https://github.com/ninjaMods17/yanni-api#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "fs-extra": "^11.3.0"
+  }
+}
